@@ -1,4 +1,4 @@
-x = int(input())
-y = int(input())
+def summ(a, b):
+    return (a+b)
+print(summ)
 
-print(x + y)
